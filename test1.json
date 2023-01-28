@@ -1,0 +1,13 @@
+{
+    "software": [
+        {
+            "id": "putty",
+            "name": "PuTTY",
+            "editor": "Simon Tatham",
+            "version": "0.74",
+            "url": "https://the.earth.li/~sgtatham/putty/latest/w64/putty.exe",
+            "type": "exe",
+            "size": "1.5MB"
+        }
+    ]
+}
