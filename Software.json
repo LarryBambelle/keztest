@@ -1,0 +1,65 @@
+[
+	{
+		"URL": "https://download.videolan.org/pub/videolan/vlc/3.0.14/win64/vlc-3.0.14-win64.exe",
+		"applicationName": "VLC",
+		"editor": "VideoLAN",
+		"id": 1,
+		"size": "33 MB",
+		"type": "Installer",
+		"version": "3.0.14"
+	},
+	{
+		"URL": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v7.8.1/npp.7.8.1.Installer.exe",
+		"applicationName": "Notepad++",
+		"editor": "Notepad++ Team",
+		"id": 2,
+		"size": "4.2 MB",
+		"type": "Installer",
+		"version": "7.9.5"
+	},
+	{
+		"URL": "https://the.earth.li/~sgtatham/putty/latest/w64/putty-64bit-0.78-installer.msi",
+		"applicationName": "Putty",
+		"editor": "Simon Tatham",
+		"id": 3,
+		"size": "2.2 MB",
+		"type": "Installer",
+		"version": "0.74"
+	},
+	{
+		"URL": "https://download.mozilla.org/?product=firefox-87.0&os=win&lang=en-US",
+		"applicationName": "Firefox",
+		"editor": "Mozilla Foundation",
+		"id": 4,
+		"size": "43 MB",
+		"type": "Installer",
+		"version": "87.0"
+	},
+	{
+		"URL": "https://dl.google.com/tag/s/appguid%3D%7B8A69D345-D564-463C-AFF1-A69D9E530F96%7D%26iid%3D%7B5880A831-47CB-B88E-3BA9-EF51FF88C430%7D%26lang%3Dfr%26browser%3D5%26usagestats%3D0%26appname%3DGoogle%2520Chrome%26needsadmin%3Dprefers%26ap%3Dstable-arch_x86-statsdef_1%26brand%3DONGR%26installdataindex%3Dempty/update2/installers/ChromeSetup.exe",
+		"applicationName": "Chrome",
+		"editor": "Google",
+		"id": 5,
+		"size": "93 MB",
+		"type": "Installer",
+		"version": "91.0.4472.102"
+	},
+	{
+		"URL": "https://www.7-zip.org/a/7z2201-x64.exe",
+		"applicationName": "7-zip",
+		"editor": "Igor Pavlov",
+		"id": 6,
+		"size": "3.1 MB",
+		"type": "Installer",
+		"version": "21.02"
+	},
+	{
+		"URL": "https://cdn06.foxitsoftware.com/pub/foxit/reader/desktop/win/11.1/en_us/FoxitReader1110_Setup.exe",
+		"applicationName": "Foxit Reader",
+		"editor": "Foxit Software Inc.",
+		"id": 7,
+		"size": "83 MB",
+		"type": "Installer",
+		"version": "11.1.0"
+	}
+]
