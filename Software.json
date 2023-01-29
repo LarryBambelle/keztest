@@ -36,15 +36,6 @@
 		"version": "87.0"
 	},
 	{
-		"URL": "https://dl.google.com/tag/s/appguid%3D%7B8A69D345-D564-463C-AFF1-A69D9E530F96%7D%26iid%3D%7B5880A831-47CB-B88E-3BA9-EF51FF88C430%7D%26lang%3Dfr%26browser%3D5%26usagestats%3D0%26appname%3DGoogle%2520Chrome%26needsadmin%3Dprefers%26ap%3Dstable-arch_x86-statsdef_1%26brand%3DONGR%26installdataindex%3Dempty/update2/installers/ChromeSetup.exe",
-		"applicationName": "Chrome",
-		"editor": "Google",
-		"id": 5,
-		"size": "93 MB",
-		"type": "Installer",
-		"version": "91.0.4472.102"
-	},
-	{
 		"URL": "https://www.7-zip.org/a/7z2201-x64.exe",
 		"applicationName": "7-zip",
 		"editor": "Igor Pavlov",
@@ -53,13 +44,4 @@
 		"type": "Installer",
 		"version": "21.02"
 	},
-	{
-		"URL": "https://cdn06.foxitsoftware.com/pub/foxit/reader/desktop/win/11.1/en_us/FoxitReader1110_Setup.exe",
-		"applicationName": "Foxit Reader",
-		"editor": "Foxit Software Inc.",
-		"id": 7,
-		"size": "83 MB",
-		"type": "Installer",
-		"version": "11.1.0"
-	}
 ]
