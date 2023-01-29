@@ -1,13 +1,22 @@
 {
     "software": [
         {
-            "id": "putty",
-            "name": "PuTTY",
-            "editor": "Simon Tatham",
-            "version": "0.74",
-            "url": "https://the.earth.li/~sgtatham/putty/latest/w64/putty.exe",
-            "type": "exe",
-            "size": "1.5MB"
+            "id": "1",
+            "name": "VLC",
+            "editor": "VideoLAN",
+            "version": "3.0.12",
+            "URL": "https://download.videolan.org/vlc/3.0.12/win64/vlc-3.0.12-win64.exe",
+            "type": "Media Player",
+            "size": "38 MB"
+        },
+        {
+            "id": "2",
+            "name": "Notepad++",
+            "editor": "Don Ho",
+            "version": "7.9.2",
+            "URL": "https://notepad-plus-plus.org/repository/7.x/7.9.2/npp.7.9.2.Installer.x64.exe",
+            "type": "Code Editor",
+            "size": "4.5 MB"
         }
     ]
 }
