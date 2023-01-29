@@ -1,5 +1,4 @@
-{
-    "software": [
+[
 	{
 		"URL": "https://download.videolan.org/pub/videolan/vlc/3.0.14/win64/vlc-3.0.14-win64.exe",
 		"applicationName": "VLC",
