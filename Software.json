@@ -27,15 +27,6 @@
 		"version": "0.74"
 	},
 	{
-		"URL": "https://download.mozilla.org/?product=firefox-87.0&os=win&lang=en-US",
-		"applicationName": "Firefox",
-		"editor": "Mozilla Foundation",
-		"id": 4,
-		"size": "43 MB",
-		"type": "Installer",
-		"version": "87.0"
-	},
-	{
 		"URL": "https://www.7-zip.org/a/7z2201-x64.exe",
 		"applicationName": "7-zip",
 		"editor": "Igor Pavlov",
